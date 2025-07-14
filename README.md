@@ -1,8 +1,6 @@
-# Polyp Segmentation with Enhanced UNet3+ and Transfer Learning
+# Improving Polyps Segmentation in Colonoscopy Images Using Modified UNet3 + Network
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-![Demo Interface](sample_result/startup_interface.png)
 
 ## Project Overview
 
@@ -100,11 +98,13 @@ The following image visually compares the segmentation performance of the propos
 4. Click **Predict** to view and compare segmentation masks
 
 <div align="center">
-  <img src="sample_result/demo_interface.png" alt="Startup Interface" width="70%" style="margin-bottom: 16px;"/>
+  <img src="sample_result/startup_interface.png" alt="Startup Interface" width="70%" style="margin-bottom: 16px;"/>
   <p><em>Segmentation results example 1</em></p>
-  <img src="sample_result/demo_interface_2.png" alt="Segmentation Results 1" width="70%" style="margin-bottom: 16px; margin-top: 32px;"/>
+  <img src="sample_result/demo_interface.png" alt="Segmentation Results 1" width="70%" style="margin-bottom: 16px;"/>
+  <p><em>Segmentation results example 1</em></p>
+  <img src="sample_result/demo_interface_2.png" alt="Segmentation Results 2" width="70%" style="margin-bottom: 16px; margin-top: 32px;"/>
   <p><em>Segmentation results example 2</em></p>
-  <img src="sample_result/demo_interface_3.png" alt="Segmentation Results 2" width="70%" style="margin-bottom: 16px; margin-top: 32px;"/>
+  <img src="sample_result/demo_interface_3.png" alt="Segmentation Results 3" width="70%" style="margin-bottom: 16px; margin-top: 32px;"/>
   <p><em>Segmentation results example 3</em></p>
 </div>
 
