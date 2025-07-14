@@ -99,7 +99,7 @@ The following image visually compares the segmentation performance of the propos
 
 <div align="center">
   <img src="sample_result/startup_interface.png" alt="Startup Interface" width="70%" style="margin-bottom: 16px;"/>
-  <p><em>Segmentation results example 1</em></p>
+  <p><em>Startup Interface</em></p>
   <img src="sample_result/demo_interface.png" alt="Segmentation Results 1" width="70%" style="margin-bottom: 16px;"/>
   <p><em>Segmentation results example 1</em></p>
   <img src="sample_result/demo_interface_2.png" alt="Segmentation Results 2" width="70%" style="margin-bottom: 16px; margin-top: 32px;"/>
