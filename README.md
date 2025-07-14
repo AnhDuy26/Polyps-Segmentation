@@ -8,7 +8,7 @@
 
 This repository provides the official code and demo for the research paper:
 
-> **"Polyp Segmentation Using UNet3+ with Transfer Learning from Pre-trained Backbones"**  
+> **"Improving Polyps Segmentation in Colonoscopy Images Using Modified UNet3 + Network"**  
 > [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-88705-5_24)
 
 **Abstract:**
@@ -177,12 +177,13 @@ Kvasir-SEG/
 If you use this code or models in your research, please cite the official paper:
 
 ```
-@inproceedings{your_citation_key,
-  title={Polyp Segmentation Using UNet3+ with Transfer Learning from Pre-trained Backbones},
-  author={...},
-  booktitle={...},
+@inproceedings{duy2024improving,
+  title={Improving Polyps Segmentation in Colonoscopy Images Using Modified UNet3+ Network},
+  author={Duy, Huynh Anh and Khoa, Huynh Anh and Hung, Phan Duy},
+  booktitle={International Conference on Intelligent Human Computer Interaction},
+  pages={281--292},
   year={2024},
-  publisher={Springer}
+  organization={Springer}
 }
 ```
 
